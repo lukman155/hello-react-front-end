@@ -31,7 +31,7 @@
 
 # 📖 [Hello Rails Front End] <a name="about-project"></a>
 
-> This is a front end project for the "Hello World" project. You can find the back end API endpoint project here: [Hello Rails Back End](https://github.com/jugosack/hello-rails-back-end.git)
+> This is a front end project for the "Hello World" project. You can find the back end API endpoint project here: [Hello Rails Back End](https://github.com/lukman155/hello-rails-back-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -74,7 +74,7 @@ Clone this repository to your desired folder:
 
 ````sh
   cd hello-react-front-end
-  git clone https://github.com/jugosack/hello-react-front-end.git
+  git clone https://github.com/lukman155/hello-react-front-end.git
 
 ### Install
 
@@ -118,11 +118,11 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Jugoslav Achkoski**
+👤 **Lukman Abdulkarim**
 
-- GitHub: [@github](https://github.com/jugosack)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jugoslavachkoski/)
-- Twitter: [twitter](https://twitter.com/Jugoslav_A)
+- GitHub: [@Lukman](https://github.com/lukman155)
+- Twitter: [@Luk, A man](https://twitter.com/lukmanabdulka18)
+- LinkedIn: [Lukman Abdulkarim](https://www.linkedin.com/in/lukmanbaba/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +141,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jugosack/hello-react-front-end/issues).
+Feel free to check the [issues page](https://github.com/lukman155/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
